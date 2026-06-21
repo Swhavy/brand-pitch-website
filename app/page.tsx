@@ -271,7 +271,7 @@ export default function BrandPresentation() {
           </h1>
           <p className="text-lg text-gray-400 mb-2">
             Strategic brand architecture for a Nigerian premium kitchenware
-            company
+            Business
           </p>
           <p className="text-xs tracking-[0.2em] text-gray-600">
             CREATED FOR CHIJIOKE EMMANUEL EMEJULU
@@ -802,7 +802,7 @@ export default function BrandPresentation() {
                 CREATIVE DIRECTION
               </p>
               <p className="text-sm font-semibold text-white">
-                SWHAVY DIGITAL SOLUTIONS
+                Anyanechi Divine
               </p>
               <p className="text-xs text-gray-500">
                 Brand Strategist & Designer
@@ -811,7 +811,7 @@ export default function BrandPresentation() {
           </div>
           <div className="text-center">
             <p className="text-xs text-gray-600 mb-2">
-              © 2024 SWAVY Digital Solutions. All Rights Reserved.
+              © 2026 SWAVY Digital Solutions. All Rights Reserved.
             </p>
             <p className="text-xs text-gray-700">
               Premium Brand Architecture Presentation | Strategic Culinary Brand
