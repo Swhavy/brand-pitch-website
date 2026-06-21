@@ -27,7 +27,7 @@ export const metadata: Metadata = {
         type: 'image/png',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/swavy-logo.png',
   },
 }
 
